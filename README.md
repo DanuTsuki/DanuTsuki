@@ -8,10 +8,10 @@
 <a href="https://github.com/DanuTsuki">
   <img src="https://komarev.com/ghpvc/?username=DanuTsuki&label=Visitas&style=flat" />
 </a>
-<a href="mailto:TU_CORREO_AQUI">
+<a href="mailto:ivan.leighton199@gmail.com">
   <img src="https://img.shields.io/badge/Email-contactarme-informational" />
 </a>
-<a href="https://discord.gg/TU_INVITE_AQUI">
+<a href="https://discord.gg/DZ9VACAEyS">
   <img src="https://img.shields.io/badge/Discord-únete-5865F2?logo=discord&logoColor=white" />
 </a>
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Stats (se ven bonitos en el perfil)
+## 📊 Stats
 <div align="center">
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanuTsuki&show_icons=true&hide_title=true)
@@ -58,7 +58,6 @@
 
 ## 📬 Contacto
 - Discord: **DanuTsuki**
-- Email: **TU_CORREO_AQUI**
 
 <div align="center">
 
